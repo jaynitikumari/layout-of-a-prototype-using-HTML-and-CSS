@@ -1,0 +1,28 @@
+#box{
+    border: 5%;
+    border-color: blue;
+    border-width: 5px;
+    padding: 2%;
+    margin-top: 2%;
+    margin-right: 35%;
+    border-style: solid;
+    border-left-width:5px;
+    background-color: yellow; 
+}
+
+
+#body{
+    background-color: bisque;
+
+}
+#border{
+    border-radius: 15px;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    background-color: rgb(187, 245, 185);
+
+}
